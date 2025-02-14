@@ -25,7 +25,7 @@
 
 
 
-## Additional Documentation
+## Additional documentation
 
 
 
