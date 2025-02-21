@@ -15,14 +15,11 @@
 
 - ## Description
 
-This is my way of saying hello to the world.
+This is my way of saying hello to the world. It is a short introduction of my GitHub learning experience.
 
 ## How to run program
 
-
-
-## Files used
-
+- README.md
 
 
 ## Additional documentation
@@ -30,3 +27,5 @@ This is my way of saying hello to the world.
 **No additional documentation**
 
 ## Versioning
+
+This is the first version, no major changes were made.
