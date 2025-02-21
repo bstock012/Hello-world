@@ -11,11 +11,11 @@
 
 - ## Project Title
 
-- *Hello World Sample*
+- *Hello World*
 
 - ## Description
 
-
+This is my way of saying hello to the world.
 
 ## How to run program
 
@@ -27,6 +27,6 @@
 
 ## Additional documentation
 
-
+**No additional documentation**
 
 ## Versioning
